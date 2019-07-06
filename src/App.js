@@ -1,15 +1,7 @@
-<<<<<<< HEAD
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
- 
-=======
-import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
-// hello 
-//hi there
->>>>>>> 16374e2906e3d72b4c5c961bf2e7c03834975d99
+t React D// hello 
 function App() {
   return (
     <div className="App">
